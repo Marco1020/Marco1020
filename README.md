@@ -11,8 +11,8 @@
   <img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##Se quiser entrar em contato
+  <br>
+  <h1>Se quiser entrar em contato</h1>
  
 <div> 
   
