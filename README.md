@@ -1,5 +1,5 @@
 
-## Olá, eu sou o Marco Gustavo.
+## <h2>Olá, eu sou o Marco Gustavo.<h2/>
 🌎 Bem vindo ao meu perfil Github!<br>
 🖥️ Estudando atualmente Ds.
 
@@ -12,7 +12,7 @@
   <img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   <br>
-  <h1>Se quiser entrar em contato</h1>
+  <h2>Se quiser entrar em contato:</h2>
  
 <div> 
   
