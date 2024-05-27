@@ -10,8 +10,7 @@
 <p>🖥️ Estudando atualmente Ds.</p>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rank_icon=github">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1020&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="languages" title="languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rank_icon=github"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1020&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="languages" title="languages"/>
 
 <h2>Habilidades/ Tecnogias<h2/>
 <div style="display: inline-block">
