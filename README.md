@@ -3,7 +3,7 @@
 </a>
 
 <p align="middle">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0071BC&size=25&center=true&vCenter=true&font=Poppins&weight=800&lines=Olá,+eu+sou+o+Marco+Gustavo+;Full+Stack+Developer" width="85%"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFF&size=25&center=true&vCenter=true&font=Poppins&weight=800&lines=Olá,+eu+sou+o+Marco+Gustavo+;Full+Stack+Developer" width="85%"/>
 </p>
 <br>
 <br><p><strong>🌎 Bem vindo ao meu perfil Github!<strong></p>
