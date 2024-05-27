@@ -1,4 +1,10 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
+</a>
 
+<p align="middle">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=25&center=true&vCenter=true&font=Poppins&weight=800&lines=Marco+Gustavo+;Full+Stack+Developer" width="85%"/>
+</p>
 ## <h2>Olá, eu sou o Marco Gustavo.<h2/>
 🌎 Bem vindo ao meu perfil Github!<br>
 🖥️ Estudando atualmente Ds. <br>
