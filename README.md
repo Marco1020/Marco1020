@@ -9,10 +9,6 @@
 <br><p>🌎 Bem vindo ao meu perfil Github!</p>
 <p>🖥️ Estudando atualmente Ds.</p>
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rank_icon=github">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1020&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="languages" title="languages"/>
-
 ### Habilidades / Tecnologias: 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,java,figma,react,python,)
 
@@ -30,4 +26,6 @@
   </a>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rank_icon=github">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1020&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="languages" title="languages"/>
 
