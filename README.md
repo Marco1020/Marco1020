@@ -26,6 +26,6 @@
   </a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rank_icon=githubcount_private=true&include_all_commits=true&rank_icon=github&hide=issues" alt="status" title="status"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rinclude_all_commits=true&rank_icon=github&hide=issues" alt="status" title="status"/>&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1020&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="languages" title="languages"/>
 
