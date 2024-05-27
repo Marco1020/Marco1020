@@ -2,7 +2,7 @@
 ## <h2>Olá, eu sou o Marco Gustavo.<h2/>
 🌎 Bem vindo ao meu perfil Github!<br>
 🖥️ Estudando atualmente Ds. <br>
-<br>![Marco1020](https://github-readme-stats.vercel.app/api?username=MarcoGustavo&show_icons=true&theme=transparent)
+<br>![Marco1020](https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent)
 
 
 <div style="display: inline_block">
