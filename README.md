@@ -3,7 +3,7 @@
 </a>
 
 <p align="middle">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&font=Poppins&weight=800&lines=Olá,+eu+sou+o+Marco+Gustavo+;Full+Stack+Developer" width="85%"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&font=Poppins&weight=800&lines=Olá,+eu+sou+o+Marco+Gustavo+;" width="85%"/>
 </p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
