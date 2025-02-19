@@ -29,7 +29,7 @@
   </a>
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rinclude_all_commits=true&rank_icon=github&hide=issues" alt="status" title="status"/>&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1020&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="languages" title="languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rinclude_all_commits=true&rank_icon=github&hide=issues" alt="status" title="status"/>&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?/>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
 </details>
