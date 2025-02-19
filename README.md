@@ -8,7 +8,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <br><p><strong>🌎 Bem vindo ao meu perfil Github!<strong></p>
-<p><strong>🖥️ Estudando atualmente Ds.<strong></p>
+<p><strong>🖥️ Técnico em Desenvolvimento de Sistemas<strong></p>
 
 ### Habilidades / Tecnologias: 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,java,figma,react,python,)
