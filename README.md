@@ -28,9 +28,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<img src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&rinclude_all_commits=true&rank_icon=github&hide=issues" alt="status" title="status"/>&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?/>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marco1020&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&hide=issues"/>
+</p>
+
   
 </details>
   
